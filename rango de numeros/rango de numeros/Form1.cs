@@ -27,7 +27,7 @@ namespace rango_de_numeros
         {
             try
             {
-                // Limpiar el ListBox antes de agregar nuevos números
+              
                 ltsNumbers.Items.Clear();
 
                 // Obtener los valores 
