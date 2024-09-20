@@ -1,0 +1,10 @@
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango de numeros.csproj.AssemblyReference.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango_de_numeros.Form1.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango_de_numeros.Properties.Resources.resources
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango de numeros.csproj.GenerateResource.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango de numeros.csproj.CoreCompileInputs.cache
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\bin\Debug\rango de numeros.exe.config
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\bin\Debug\rango de numeros.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\bin\Debug\rango de numeros.pdb
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango de numeros.exe
+C:\Users\solie\OneDrive\Documentos\II.Semestre\Metodologia\prueba1\rango de numeros\rango de numeros\obj\Debug\rango de numeros.pdb

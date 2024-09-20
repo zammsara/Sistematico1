@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|c:\\users\\solie\\onedrive\\documentos\\ii.semestre\\metodologia\\prueba1\\rango de numeros\\rango de numeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|solutionrelative:rango de numeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|c:\\users\\solie\\onedrive\\documentos\\ii.semestre\\metodologia\\prueba1\\rango de numeros\\rango de numeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|solutionrelative:rango de numeros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|c:\\users\\solie\\onedrive\\documentos\\ii.semestre\\metodologia\\prueba1\\rango de numeros\\rango de numeros\\referencias\\referencias.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|solutionrelative:rango de numeros\\referencias\\referencias.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|c:\\users\\solie\\onedrive\\documentos\\ii.semestre\\metodologia\\prueba1\\rango de numeros\\rango de numeros\\models\\numberrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FA2C82-A3E5-4763-BFC4-B6A71287CBD3}|rango de numeros\\rango de numeros.csproj|solutionrelative:rango de numeros\\models\\numberrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberRange.cs",
+              "DocumentMoniker": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\models\\NumberRange.cs",
+              "RelativeDocumentMoniker": "rango de numeros\\models\\NumberRange.cs",
+              "ToolTip": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\models\\NumberRange.cs",
+              "RelativeToolTip": "rango de numeros\\models\\NumberRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:54:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "referencias.txt",
+              "DocumentMoniker": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\referencias\\referencias.txt",
+              "RelativeDocumentMoniker": "rango de numeros\\referencias\\referencias.txt",
+              "ToolTip": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\referencias\\referencias.txt",
+              "RelativeToolTip": "rango de numeros\\referencias\\referencias.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-20T13:50:44.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\Form1.cs",
+              "RelativeDocumentMoniker": "rango de numeros\\Form1.cs",
+              "ToolTip": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\Form1.cs",
+              "RelativeToolTip": "rango de numeros\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:43:41.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\Form1.cs",
+              "RelativeDocumentMoniker": "rango de numeros\\Form1.cs",
+              "ToolTip": "C:\\Users\\solie\\OneDrive\\Documentos\\II.Semestre\\Metodologia\\prueba1\\rango de numeros\\rango de numeros\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "rango de numeros\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:33:36.916Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
