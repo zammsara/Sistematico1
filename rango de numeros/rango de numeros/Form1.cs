@@ -30,17 +30,17 @@ namespace rango_de_numeros
                 // Limpiar el ListBox antes de agregar nuevos números
                 ltsNumbers.Items.Clear();
 
-                // Obtener los valores de los controles NumericUpDown
+                // Obtener los valores 
                 int x = (int)numX.Value;
                 int y = (int)numY.Value;
 
-                // Crear una instancia de la clase NumeroRango
+                // Crear una instancia de la clase 
                 NumberRange rango = new NumberRange(x, y);
 
                 // Obtener los números en el rango
                 List<int> numeros = rango.ObtenerRango();
 
-                // Mostrar los números en el ListBox
+                // Mostrar los números 
                 foreach (int numero in numeros)
                 {
                     ltsNumbers .Items.Add(numero);
